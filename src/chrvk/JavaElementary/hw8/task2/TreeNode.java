@@ -1,4 +1,4 @@
-package chrvk.task2;
+package chrvk.JavaElementary.hw8.task2;
 
 public class TreeNode {
     int val;
