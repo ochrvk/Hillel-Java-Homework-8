@@ -5,7 +5,7 @@
 F(0) = 0, F(1) = 1
 F(N) = F(N - 1) + F(N - 2)
 */
-package chrvk.JavaElementary.hw8.task1;
+package chrvk.javaelementary.hw8.task1;
 
 import java.util.Scanner;
 

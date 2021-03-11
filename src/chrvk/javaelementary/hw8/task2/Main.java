@@ -2,7 +2,7 @@
 Написать метод для обьединения
 2 бинарных дерева.
 */
-package chrvk.JavaElementary.hw8.task2;
+package chrvk.javaelementary.hw8.task2;
 
 public class Main {
     public static void main(String[] args) {
