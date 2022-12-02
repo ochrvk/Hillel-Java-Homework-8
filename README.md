@@ -1,4 +1,4 @@
-# Hillel-Java-Homework-8
+# Homework 8
 
 ## **Task 1:** Число Фибоначи
 
