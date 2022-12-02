@@ -1,10 +1,3 @@
-/*
-Число Фибоначи
-написать метод который возвращает N-ное число фибоначи,
-по правилу:
-F(0) = 0, F(1) = 1
-F(N) = F(N - 1) + F(N - 2)
-*/
 package chrvk.javaelementary.hw8.task1;
 
 import java.util.Scanner;

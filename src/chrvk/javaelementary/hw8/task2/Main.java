@@ -1,7 +1,3 @@
-/*
-Написать метод для обьединения
-2 бинарных дерева.
-*/
 package chrvk.javaelementary.hw8.task2;
 
 public class Main {
